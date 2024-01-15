@@ -73,3 +73,42 @@ class MyHomePage extends StatelessWidget {
 |[![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=ray&rotate=0)](https://moon-svg.minung.dev) [![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=basic&rotate=0)](https://moon-svg.minung.dev)|[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pits56ip4lozpoo0xzvyti5w2&cover_image=true&theme=natemoo-re&show_offline=false&interchange=false)](https://open.spotify.com/user/pits56ip4lozpoo0xzvyti5w2)|
 
 </div>
+
+
+
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> Connect with me
+<!-- gmail -->
+<a target="_blank" href="mailto:phamquockhanh.dev@gmail.com">
+ <img align="center" src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Gmail.svg" alt="Khanhrukachi's gmail" height="30" width="40"/>
+</a>
+
+<!-- facebook -->
+<a target="_blank" href="https://fb.com/phamquockhanh7352">
+ <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Khanhrukachi's facebook" height="30" width="40"/>
+</a>
+ 
+<!-- instagram -->
+<a target="_blank" href="https://instagram.com/pqk_7352">
+ <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Khanhrukachi's instagram" height="30" width="40"/>
+</a>
+ 
+ <!-- github -->
+<a target="_blank" href="https://github.com/khanhrukachi">
+ <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="Khanhrukachi's github" height="30" width="40"/>
+</a>
+ 
+<!-- youtube -->
+<a target="_blank" href="https://www.youtube.com/@phamquockhanh7352">
+ <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Khanhrukachi's youtube" height="30" width="40"/>
+</a>
+
+<!-- youtube -->
+<a target="_blank" href="https://www.tikok.com/@phamquockhanh7352">
+ <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tikok.svg" alt="Khanhrukachi's tiktok" height="30" width="40"/>
+</a>
+<br>
+<br>
+
+<!-- Snake -->
+|![github contribution grid snake animation](https://raw.githubusercontent.com/K1ethoang/K1ethoang/output/github-contribution-grid-snake.svg)|
+|:---:|
