@@ -46,6 +46,8 @@
 <div align="center">
   <a href="https://github.com/khanhrukachi/khanhrukachi/blob/main/Image/pikachurun.gif">
     <img width="300" height="300" src="https://github.com/khanhrukachi/khanhrukachi/raw/main/Image/pikachurun.gif" alt="Pikachu Run">
+    <img width="300" height="300" src="https://github.com/khanhrukachi/khanhrukachi/raw/main/Image/pikachurun.gif" alt="Pikachu Run">
+    <img width="300" height="300" src="https://github.com/khanhrukachi/khanhrukachi/raw/main/Image/pikachurun.gif" alt="Pikachu Run">
   </a>
 </div>
 <br>
