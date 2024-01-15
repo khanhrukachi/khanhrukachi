@@ -45,10 +45,7 @@
 <br>
 <br>
 
-<div style="background-color: #f0f0f0; padding: 20px; border-radius: 10px; text-align: center;">
-        <img src="https://github.com/khanhrukachi/khanhrukachi/blob/main/Image/pikachurun.gif" alt="Pikachu Run">
-    </div>
-
+align="center"
 ```dart
 class MyHomePage extends StatelessWidget {
   @override
