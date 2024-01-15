@@ -103,7 +103,7 @@ class MyHomePage extends StatelessWidget {
 </a>
 
 <!-- tik tok -->
-<a target="_blank" href="https://www.tiktok.com/@phamquockhanh7352">
+<a style="border-radius: 50%;" target="_blank" href="https://www.tiktok.com/@phamquockhanh7352">
     <img style="border-radius: 50%;" align="center" src="https://github.com/khanhrukachi/khanhrukachi/blob/main/Image/tiktok1.png" alt="Khanhrukachi's tiktok" height="60" width="60"/>
 </a>
 
