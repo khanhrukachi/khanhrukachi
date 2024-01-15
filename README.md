@@ -59,24 +59,17 @@
 <br>
 
 ```dart
-class MyHomePage extends StatelessWidget {
-  @override
-  Widget build(BuildContext context) {
-  return Scaffold(
-  appBar: AppBar(
-    title: Text('Flutter App'),
-  ),
-  body: Column(
-    mainAxisAlignment: MainAxisAlignment.center,
-    crossAxisAlignment: CrossAxisAlignment.center,
-    children: [
-    SayWidget(quote: "If you l tired, learn to rest, not to quit."),
-    ],
-  ),
-  );
-  }
-}
+class MainActivity : AppCompatActivity() {
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        setContentView(R.layout.activity_main)
 
+        val textView: TextView = findViewById(R.id.textView)
+        textView.text = "If you're tired, learn to rest, not to quit."
+        textView.textSize = 20f
+        textView.setTypeface(null, android.graphics.Typeface.BOLD)
+    }
+}
 ```
 
 <div align="center">
