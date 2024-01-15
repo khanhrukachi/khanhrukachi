@@ -79,12 +79,12 @@ class MyHomePage extends StatelessWidget {
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> Connect with me
 <!-- gmail -->
 <a target="_blank" href="mailto:phamquockhanh.dev@gmail.com">
- <img align="center" src="https://github.com/khanhrukachi/khanhrukachi/blob/main/Image/gmail.png" alt="Khanhrukachi's gmail" height="50" width="50"/>
+ <img align="center" src="https://github.com/khanhrukachi/khanhrukachi/blob/main/Image/gmail.png" alt="Khanhrukachi's gmail" height="60" width="60"/>
 </a>
 
 <!-- facebook -->
 <a target="_blank" href="https://fb.com/phamquockhanh7352">
- <img align="center" src="https://github.com/khanhrukachi/khanhrukachi/blob/main/Image/facebook.png" alt="Khanhrukachi's facebook" height="40" width="40"/>
+ <img align="center" src="https://github.com/khanhrukachi/khanhrukachi/blob/main/Image/facebook.png" alt="Khanhrukachi's facebook" height="50" width="50"/>
 </a>
  
 <!-- instagram -->
@@ -94,17 +94,17 @@ class MyHomePage extends StatelessWidget {
  
  <!-- github -->
 <a target="_blank" href="https://github.com/khanhrukachi">
- <img align="center" src="https://github.com/khanhrukachi/khanhrukachi/blob/main/Image/github.png" alt="Khanhrukachi's github" height="40" width="40"/>
+ <img align="center" src="https://github.com/khanhrukachi/khanhrukachi/blob/main/Image/github.png" alt="Khanhrukachi's github" height="50" width="50"/>
 </a>
  
 <!-- youtube -->
 <a target="_blank" href="https://www.youtube.com/@phamquockhanh7352">
- <img align="center" src="https://github.com/khanhrukachi/khanhrukachi/blob/main/Image/youtobe.png" alt="Khanhrukachi's youtube" height="40" width="40"/>
+ <img align="center" src="https://github.com/khanhrukachi/khanhrukachi/blob/main/Image/youtobe.png" alt="Khanhrukachi's youtube" height="50" width="50"/>
 </a>
 
-<!-- youtube -->
+<!-- tik tok -->
 <a target="_blank" href="https://www.tikok.com/@phamquockhanh7352">
- <img align="center" src="https://github.com/khanhrukachi/khanhrukachi/blob/main/Image/tiktok.png" alt="Khanhrukachi's tiktok" height="40" width="40"/>
+ <img align="center" src="https://github.com/khanhrukachi/khanhrukachi/blob/main/Image/tiktok.png" alt="Khanhrukachi's tiktok" height="60" width="60"/>
 </a>
 <br>
 <br>
