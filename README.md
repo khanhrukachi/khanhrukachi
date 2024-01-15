@@ -45,7 +45,7 @@
 <br>
 <br>
 
-<div align="center">
+<div color="white" align="center">
 	
 <img src="https://github.com/khanhrukachi/khanhrukachi/blob/main/Image/pikachurun.gif">
 
