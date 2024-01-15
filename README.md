@@ -5,7 +5,7 @@
   </a>
   <a target="_blank" href="https://www.youtube.com/@phamquockhanh7352">
     <img alt="youtube views" title="YouTube views" src="https://img.shields.io/youtube/channel/views/UCNhi5NBlMT7V09MzuwD85Aw?style=for-the-badge&logo=youtube&labelColor=C79600&color=E1AD0E"/>
-  </a> 
+  </a>
   <a target="_blank" href="https://github.com/khanhrukachi?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/khanhrukachi?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
   </a>
