@@ -94,7 +94,7 @@ class MyHomePage extends StatelessWidget {
  
  <!-- github -->
 <a target="_blank" href="https://github.com/khanhrukachi">
- <img align="center" src="https://github.com/khanhrukachi/khanhrukachi/blob/main/Image/github-2690381-2232884.png" alt="Khanhrukachi's github" height="40" width="40"/>
+ <img align="center" src="https://github.com/khanhrukachi/khanhrukachi/blob/main/Image/github-2690381-2232884.png" alt="Khanhrukachi's github" height="30" width="30"/>
 </a>
  
 <!-- youtube -->
