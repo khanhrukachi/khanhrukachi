@@ -79,7 +79,7 @@ class MyHomePage extends StatelessWidget {
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> Connect with me
 <!-- gmail -->
 <a target="_blank" href="mailto:phamquockhanh.dev@gmail.com">
- <img align="center" src="https://github.com/khanhrukachi/khanhrukachi/blob/main/Image/gmail.png" alt="Khanhrukachi's gmail" height="70" width="50"/>
+ <img align="center" src="https://github.com/khanhrukachi/khanhrukachi/blob/main/Image/email.png" alt="Khanhrukachi's gmail" height="70" width="50"/>
 </a>
 
 <!-- facebook -->
