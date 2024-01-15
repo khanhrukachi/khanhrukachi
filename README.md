@@ -79,32 +79,32 @@ class MyHomePage extends StatelessWidget {
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> Connect with me
 <!-- gmail -->
 <a target="_blank" href="mailto:phamquockhanh.dev@gmail.com">
- <img align="center" src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Gmail.svg" alt="Khanhrukachi's gmail" height="30" width="40"/>
+ <img align="center" src="https://github.com/khanhrukachi/khanhrukachi/blob/main/Image/gmail.png" alt="Khanhrukachi's gmail" height="30" width="40"/>
 </a>
 
 <!-- facebook -->
 <a target="_blank" href="https://fb.com/phamquockhanh7352">
- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Khanhrukachi's facebook" height="30" width="40"/>
+ <img align="center" src="https://github.com/khanhrukachi/khanhrukachi/blob/main/Image/facebook.png" alt="Khanhrukachi's facebook" height="30" width="40"/>
 </a>
  
 <!-- instagram -->
 <a target="_blank" href="https://instagram.com/pqk_7352">
- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Khanhrukachi's instagram" height="30" width="40"/>
+ <img align="center" src="https://github.com/khanhrukachi/khanhrukachi/blob/main/Image/instagram.png" alt="Khanhrukachi's instagram" height="30" width="40"/>
 </a>
  
  <!-- github -->
 <a target="_blank" href="https://github.com/khanhrukachi">
- <img align="center" src="https://github.com/khanhrukachi/khanhrukachi/blob/main/Image/github-2690381-2232884.png" alt="Khanhrukachi's github" height="35" width="35"/>
+ <img align="center" src="https://github.com/khanhrukachi/khanhrukachi/blob/main/Image/github.png" alt="Khanhrukachi's github" height="35" width="35"/>
 </a>
  
 <!-- youtube -->
 <a target="_blank" href="https://www.youtube.com/@phamquockhanh7352">
- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Khanhrukachi's youtube" height="30" width="40"/>
+ <img align="center" src="https://github.com/khanhrukachi/khanhrukachi/blob/main/Image/youtube.png" alt="Khanhrukachi's youtube" height="30" width="40"/>
 </a>
 
 <!-- youtube -->
 <a target="_blank" href="https://www.tikok.com/@phamquockhanh7352">
- <img align="center" src="https://github.com/khanhrukachi/khanhrukachi/blob/main/Image/372102780_TIKTOK_ICON_1080.png" alt="Khanhrukachi's tiktok" height="40" width="40"/>
+ <img align="center" src="https://github.com/khanhrukachi/khanhrukachi/blob/main/Image/tiktok.png" alt="Khanhrukachi's tiktok" height="40" width="40"/>
 </a>
 <br>
 <br>
