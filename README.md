@@ -79,7 +79,7 @@ class MyHomePage extends StatelessWidget {
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> Connect with me
 <!-- gmail -->
 <a target="_blank" href="mailto:phamquockhanh.dev@gmail.com">
- <img align="center" src="https://github.com/khanhrukachi/khanhrukachi/blob/main/Image/gmail.png" alt="Khanhrukachi's gmail" height="40" width="40"/>
+ <img align="center" src="https://github.com/khanhrukachi/khanhrukachi/blob/main/Image/gmail.png" alt="Khanhrukachi's gmail" height="50" width="50"/>
 </a>
 
 <!-- facebook -->
@@ -94,7 +94,7 @@ class MyHomePage extends StatelessWidget {
  
  <!-- github -->
 <a target="_blank" href="https://github.com/khanhrukachi">
- <img align="center" src="https://github.com/khanhrukachi/khanhrukachi/blob/main/Image/github.png" alt="Khanhrukachi's github" height="35" width="35"/>
+ <img align="center" src="https://github.com/khanhrukachi/khanhrukachi/blob/main/Image/github.png" alt="Khanhrukachi's github" height="40" width="40"/>
 </a>
  
 <!-- youtube -->
