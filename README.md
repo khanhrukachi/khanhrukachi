@@ -47,7 +47,7 @@
 
 <div align="center">
 	
-<img src="https://github.com/khanhrukachi/khanhrukachi/blob/main/Image/pikachurun.gif">
+<img src="https://github.com/khanhrukachi/khanhrukachi/blob/main/Image/pikachurun1.gif">
 
 </div>
 
