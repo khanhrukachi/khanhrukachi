@@ -45,6 +45,12 @@
 <br>
 <br>
 
+<div align="center">
+	
+<img src="https://github.com/khanhrukachi/khanhrukachi/blob/main/Image/pikachu.gif">
+
+</div>
+
 ```dart
 class MyHomePage extends StatelessWidget {
   @override
