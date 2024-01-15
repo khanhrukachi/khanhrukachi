@@ -84,7 +84,7 @@ class MyHomePage extends StatelessWidget {
 
 <!-- facebook -->
 <a target="_blank" href="https://fb.com/phamquockhanh7352">
- <img align="center" src="https://github.com/khanhrukachi/khanhrukachi/blob/main/Image/facebook_.png" alt="Khanhrukachi's facebook" height="40" width="40"/>
+ <img align="center" src="https://github.com/khanhrukachi/khanhrukachi/blob/main/Image/facebook_.png" alt="Khanhrukachi's facebook" height="45" width="45"/>
 </a>
  
 <!-- instagram -->
