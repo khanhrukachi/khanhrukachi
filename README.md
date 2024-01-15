@@ -94,7 +94,7 @@ class MyHomePage extends StatelessWidget {
  
  <!-- github -->
 <a target="_blank" href="https://github.com/khanhrukachi">
- <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="Khanhrukachi's github" height="30" width="40"/>
+ <img align="center" src="https://github.com/khanhrukachi/khanhrukachi/blob/main/Image/github-2690381-2232884.png" alt="Khanhrukachi's github" height="40" width="40"/>
 </a>
  
 <!-- youtube -->
@@ -104,7 +104,7 @@ class MyHomePage extends StatelessWidget {
 
 <!-- youtube -->
 <a target="_blank" href="https://www.tikok.com/@phamquockhanh7352">
- <img align="center" src="https://github.com/khanhrukachi/khanhrukachi/blob/main/Image/372102780_TIKTOK_ICON_1080.png" alt="Khanhrukachi's tiktok" height="30" width="40"/>
+ <img align="center" src="https://github.com/khanhrukachi/khanhrukachi/blob/main/Image/372102780_TIKTOK_ICON_1080.png" alt="Khanhrukachi's tiktok" height="40" width="40"/>
 </a>
 <br>
 <br>
