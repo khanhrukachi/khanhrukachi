@@ -45,13 +45,13 @@
 <br>
 <div align="center">
   <a href="https://github.com/khanhrukachi">
-    <img width="300" height="300" src="https://github.com/khanhrukachi/khanhrukachi/raw/main/Image/pikachurun.gif" alt="Pikachu Run">
+    <img width="250" height="250" src="https://github.com/khanhrukachi/khanhrukachi/raw/main/Image/pikachurun.gif" alt="Pikachu Run">
   </a>
   <a href="https://github.com/khanhrukachi">
-    <img width="300" height="300" src="https://github.com/khanhrukachi/khanhrukachi/raw/main/Image/pikachurun.gif" alt="Pikachu Run">
+    <img width="250" height="250" src="https://github.com/khanhrukachi/khanhrukachi/raw/main/Image/pikachurun.gif" alt="Pikachu Run">
   </a>
   <a href="https://github.com/khanhrukachi">
-    <img width="300" height="300" src="https://github.com/khanhrukachi/khanhrukachi/raw/main/Image/pikachurun.gif" alt="Pikachu Run">
+    <img width="250" height="250" src="https://github.com/khanhrukachi/khanhrukachi/raw/main/Image/pikachurun.gif" alt="Pikachu Run">
   </a>
 </div>
 <br>
