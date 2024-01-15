@@ -104,7 +104,7 @@ class MyHomePage extends StatelessWidget {
 
 <!-- youtube -->
 <a target="_blank" href="https://www.tikok.com/@phamquockhanh7352">
- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tikok.svg" alt="Khanhrukachi's tiktok" height="30" width="40"/>
+ <img align="center" src="https://github.com/khanhrukachi/khanhrukachi/blob/main/Image/372102780_TIKTOK_ICON_1080.png" alt="Khanhrukachi's tiktok" height="30" width="40"/>
 </a>
 <br>
 <br>
