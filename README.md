@@ -214,11 +214,3 @@ class MainActivity : AppCompatActivity() {
 
 <img src="https://raw.githubusercontent.com/khanhrukachi/khanhrukachi/output/snake.svg" alt="Snake animation" />
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/khanhrukachi/count.svg?"  />
-</div>
-
-###
-
