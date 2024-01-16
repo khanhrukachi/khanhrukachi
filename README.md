@@ -33,7 +33,7 @@
 
 
 ## 💫 About Me
-<img  width="150" height="150" src="/Image/anhgif.gif" align="right"/>
+<img  width="120" height="120" src="/Image/anhgif.gif" align="right"/>
 
 - 😊 I’m currently learning **Software Engineering** 
 
