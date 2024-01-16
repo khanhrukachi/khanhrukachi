@@ -170,6 +170,11 @@ class MainActivity : AppCompatActivity() {
 
 </div>
 
+<div align="right">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
+
 
 <div align="center">
 
