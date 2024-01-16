@@ -212,7 +212,13 @@ class MainActivity : AppCompatActivity() {
 
 
 
-  <!-- Snake -->
-|![github contribution grid snake animation](https://raw.githubusercontent.com/K1ethoang/K1ethoang/output/github-contribution-grid-snake.svg)|
-|:---:|
+<img src="https://raw.githubusercontent.com/khanhrukachi/khanhrukachi/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/khanhrukachi/count.svg?"  />
+</div>
+
+###
 
