@@ -153,7 +153,10 @@
 </br>
 
 <div align="left">
-	
+	<div align="right">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
 ```dart
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -168,10 +171,6 @@ class MainActivity : AppCompatActivity() {
 }
 ```
 
-</div>
-
-<div align="right">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
 
