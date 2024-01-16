@@ -31,7 +31,34 @@
   </a>
 </p>
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+
+## 💫 About Me
+<img src="/resource/gif/Developer.gif" align="right"/>
+
+- 😊 I’m currently learning **Software Engineering** 
+
+- 🌱 I'm 3rd-year student at **University of Transport and Communications campus in HCMC**
+
+- 🌏 I'm living now in **Ho Chi Minh Province, Viet Nam**
+
+- 📫 How to reach me **phamquockhanh.dev@gmail.com**
+
+<br>
+<div align="center">
+  <a href="https://github.com/khanhrukachi">
+    <img width="250" height="250" src="https://github.com/khanhrukachi/khanhrukachi/raw/main/Image/pikachurun.gif" alt="Pikachu Run">
+  </a>
+  <a href="https://github.com/khanhrukachi">
+    <img width="250" height="250" src="https://github.com/khanhrukachi/khanhrukachi/raw/main/Image/pikachurun.gif" alt="Pikachu Run">
+  </a>
+  <a href="https://github.com/khanhrukachi">
+    <img width="250" height="250" src="https://github.com/khanhrukachi/khanhrukachi/raw/main/Image/pikachurun.gif" alt="Pikachu Run">
+  </a>
+</div>
+<br>
+
+
+######################################################################################################################################
 
 ###
 
@@ -80,32 +107,6 @@
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
-
-
-## 💫 About Me
-<img src="/resource/gif/Developer.gif" align="right"/>
-
-- 😊 I’m currently learning **Software Engineering** 
-
-- 🌱 I'm 3rd-year student at **University of Transport and Communications campus in HCMC**
-
-- 🌏 I'm living now in **Ho Chi Minh Province, Viet Nam**
-
-- 📫 How to reach me **phamquockhanh.dev@gmail.com**
-
-<br>
-<div align="center">
-  <a href="https://github.com/khanhrukachi">
-    <img width="250" height="250" src="https://github.com/khanhrukachi/khanhrukachi/raw/main/Image/pikachurun.gif" alt="Pikachu Run">
-  </a>
-  <a href="https://github.com/khanhrukachi">
-    <img width="250" height="250" src="https://github.com/khanhrukachi/khanhrukachi/raw/main/Image/pikachurun.gif" alt="Pikachu Run">
-  </a>
-  <a href="https://github.com/khanhrukachi">
-    <img width="250" height="250" src="https://github.com/khanhrukachi/khanhrukachi/raw/main/Image/pikachurun.gif" alt="Pikachu Run">
-  </a>
-</div>
-<br>
 
 ```dart
 class MainActivity : AppCompatActivity() {
