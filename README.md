@@ -85,6 +85,8 @@
 
 </br>
 
+<div align="center">
+	
 ```dart
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -98,6 +100,9 @@ class MainActivity : AppCompatActivity() {
     }
 }
 ```
+
+</div>
+
 
 <div align="center">
 
