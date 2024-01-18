@@ -33,7 +33,7 @@
 
 
 ## 💫 About Me
-<img  width="140" height="140" src="/Image/meolap.gif" align="right"/>
+<img  width="140" height="140" src="/Image/meo.gif" align="right"/>
 
 - 😊 I’m currently learning **Software Engineering** 
 
