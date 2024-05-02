@@ -7,8 +7,6 @@
 </br>
 
 <p align="center">
-	[![youtube subscribers](https://img.shields.io/youtube/channel/subscribers/UCNhi5NBlMT7V09MzuwD85Aw?style=for-the-badge&logo=youtube&labelColor=CE4630&color=E05D44)](https://www.youtube.com/@phamquockhanh7352)
-
   <a href="https://www.youtube.com/@phamquockhanh7352">
   <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UCNhi5NBlMT7V09MzuwD85Aw?style=for-the-badge&logo=youtube&labelColor=CE4630&color=E05D44"/>
   </a>
