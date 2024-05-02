@@ -177,44 +177,18 @@ class MainActivity : AppCompatActivity() {
 
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> Connect with me
-[<img src="https://github.com/khanhrukachi/khanhrukachi/blob/main/Image/email.png" alt="Email" width="50" height="50">](mailto:phamquockhanh.dev@gmail.com)
-[<img src="https://github.com/khanhrukachi/khanhrukachi/blob/main/Image/facebook_.png" alt="Facebook" width="45" height="45">](https://fb.com/phamquockhanh7352)
-[<img src="https://github.com/khanhrukachi/khanhrukachi/blob/main/Image/instagram.png" alt="Instagram" width="40" height="40">](https://instagram.com/pqk_7352)
-[<img src="https://github.com/khanhrukachi/khanhrukachi/blob/main/Image/github.png" alt="GitHub" width="50" height="50">](https://github.com/khanhrukachi)
-[<img src="https://github.com/khanhrukachi/khanhrukachi/blob/main/Image/youtobe.png" alt="YouTube" width="50" height="50">](https://www.youtube.com/@phamquockhanh7352)
-[<img src="https://github.com/khanhrukachi/khanhrukachi/blob/main/Image/tiktok.png" alt="TikTok" width="50" height="50">](https://www.tiktok.com/@phamquockhanh7352)
-
-
 <!-- gmail -->
-<a  href="mailto:phamquockhanh.dev@gmail.com">
- <img align="center" src="https://github.com/khanhrukachi/khanhrukachi/blob/main/Image/email.png" alt="Khanhrukachi's gmail" height="50" width="50"/>
-</a>
-
+[<img src="https://github.com/khanhrukachi/khanhrukachi/blob/main/Image/email.png" alt="Email" width="50" height="50">](mailto:phamquockhanh.dev@gmail.com)
 <!-- facebook -->
-<a  href="https://fb.com/phamquockhanh7352">
- <img align="center" src="https://github.com/khanhrukachi/khanhrukachi/blob/main/Image/facebook_.png" alt="Khanhrukachi's facebook" height="45" width="45"/>
-</a>
- 
+[<img src="https://github.com/khanhrukachi/khanhrukachi/blob/main/Image/facebook_.png" alt="Facebook" width="45" height="45">](https://fb.com/phamquockhanh7352)
 <!-- instagram -->
-<a  href="https://instagram.com/pqk_7352">
- <img align="center" src="https://github.com/khanhrukachi/khanhrukachi/blob/main/Image/instagram.png" alt="Khanhrukachi's instagram" height="40" width="40"/>
-</a>
- 
- <!-- github -->
-<a  href="https://github.com/khanhrukachi">
- <img align="center" src="https://github.com/khanhrukachi/khanhrukachi/blob/main/Image/github.png" alt="Khanhrukachi's github" height="50" width="50"/>
-</a>
- 
+[<img src="https://github.com/khanhrukachi/khanhrukachi/blob/main/Image/instagram.png" alt="Instagram" width="40" height="40">](https://instagram.com/pqk_7352)
+<!-- github -->
+[<img src="https://github.com/khanhrukachi/khanhrukachi/blob/main/Image/github.png" alt="GitHub" width="50" height="50">](https://github.com/khanhrukachi)
 <!-- youtube -->
-<a  href="https://www.youtube.com/@phamquockhanh7352">
- <img align="center" src="https://github.com/khanhrukachi/khanhrukachi/blob/main/Image/youtobe.png" alt="Khanhrukachi's youtube" height="50" width="50"/>
-</a>
-
+[<img src="https://github.com/khanhrukachi/khanhrukachi/blob/main/Image/youtobe.png" alt="YouTube" width="50" height="50">](https://www.youtube.com/@phamquockhanh7352)
 <!-- tik tok -->
-<a  href="https://www.tiktok.com/@phamquockhanh7352">
-  <img align="center" src="https://github.com/khanhrukachi/khanhrukachi/blob/main/Image/tiktok.png" alt="Khanhrukachi's tiktok" height="50" width="50"/>
-</a>
-
+[<img src="https://github.com/khanhrukachi/khanhrukachi/blob/main/Image/tiktok.png" alt="TikTok" width="50" height="50">](https://www.tiktok.com/@phamquockhanh7352)
 <br>
 <br>
 
