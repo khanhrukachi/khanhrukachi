@@ -6,19 +6,8 @@
 
 </br>
 
-[![Youtube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNhi5NBlMT7V09MzuwD85Aw?style=for-the-badge&logo=youtube&labelColor=CE4630&color=E05D44)](https://www.youtube.com/@phamquockhanh7352)
+[![Youtube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNhi5NBlMT7V09MzuwD85Aw?style=for-the-badge&logo=youtube&labelColor=CE4630&color=E05D44)](https://www.youtube.com/@phamquockhanh7352) [![Youtube Views](https://img.shields.io/youtube/channel/views/UCNhi5NBlMT7V09MzuwD85Aw?style=for-the-badge&logo=youtube&labelColor=C79600&color=E1AD0E)](https://www.youtube.com/@phamquockhanh7352) [![Total Stars on GitHub](https://custom-icon-badges.demolab.com/github/stars/khanhrukachi?color=55960c&style=for-the-badge&labelColor=488207&logo=star)](https://github.com/khanhrukachi?tab=repositories&sort=stargazers) [![Followers on GitHub](https://custom-icon-badges.demolab.com/github/followers/khanhrukachi?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white)](https://github.com/khanhrukachi?tab=followers) ![GitHub profile views](https://komarev.com/ghpvc/?username=khanhrukachi&color=7C007C&labelColor=640464&style=for-the-badge&label=Visitors&&base=1000) [![Follow me on Facebook](https://img.shields.io/badge/Follow%20me%20on-Facebook-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/phamquockhanh7352/) [![Follow me on Instagram](https://img.shields.io/badge/Follow%20me%20on-Instagram-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/pqk_7352/)
 
-[![Youtube Views](https://img.shields.io/youtube/channel/views/UCNhi5NBlMT7V09MzuwD85Aw?style=for-the-badge&logo=youtube&labelColor=C79600&color=E1AD0E)](https://www.youtube.com/@phamquockhanh7352)
-
-[![Total Stars on GitHub](https://custom-icon-badges.demolab.com/github/stars/khanhrukachi?color=55960c&style=for-the-badge&labelColor=488207&logo=star)](https://github.com/khanhrukachi?tab=repositories&sort=stargazers)
-
-[![Followers on GitHub](https://custom-icon-badges.demolab.com/github/followers/khanhrukachi?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white)](https://github.com/khanhrukachi?tab=followers)
-
-![GitHub profile views](https://komarev.com/ghpvc/?username=khanhrukachi&color=7C007C&labelColor=640464&style=for-the-badge&label=Visitors&&base=1000)
-
-[![Follow me on Facebook](https://img.shields.io/badge/Follow%20me%20on-Facebook-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/phamquockhanh7352/)
-
-[![Follow me on Instagram](https://img.shields.io/badge/Follow%20me%20on-Instagram-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/pqk_7352/)
 
 
 <p align="center">
