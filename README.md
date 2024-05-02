@@ -180,8 +180,8 @@ class MainActivity : AppCompatActivity() {
 
 
 [<img src="https://github.com/khanhrukachi/khanhrukachi/blob/main/Image/email.png" alt="Email" width="50" height="50">](mailto:phamquockhanh.dev@gmail.com)
-[<img src="https://github.com/khanhrukachi/khanhrukachi/blob/main/Image/facebook_.png" alt="Facebook" width="45" height="45">](https://fb.com/phamquockhanh7352)
-[<img src="https://github.com/khanhrukachi/khanhrukachi/blob/main/Image/instagram.png" alt="Instagram" width="40" height="40">](https://instagram.com/pqk_7352)
+[<img src="https://github.com/khanhrukachi/khanhrukachi/blob/main/Image/facebook_.png" alt="Facebook" width="50" height="50">](https://fb.com/phamquockhanh7352)
+[<img src="https://github.com/khanhrukachi/khanhrukachi/blob/main/Image/instagram.png" alt="Instagram" width="50" height="50">](https://instagram.com/pqk_7352)
 [<img src="https://github.com/khanhrukachi/khanhrukachi/blob/main/Image/github.png" alt="GitHub" width="50" height="50">](https://github.com/khanhrukachi)
 [<img src="https://github.com/khanhrukachi/khanhrukachi/blob/main/Image/youtobe.png" alt="YouTube" width="50" height="50">](https://www.youtube.com/@phamquockhanh7352)
 [<img src="https://github.com/khanhrukachi/khanhrukachi/blob/main/Image/tiktok.png" alt="TikTok" width="50" height="50">](https://www.tiktok.com/@phamquockhanh7352)
