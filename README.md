@@ -6,26 +6,6 @@
 
 </br>
 
-<div align="center">
-    [![Youtube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNhi5NBlMT7V09MzuwD85Aw?style=for-the-badge&logo=youtube&labelColor=CE4630&color=E05D44)](https://www.youtube.com/@phamquockhanh7352) 
-    [![Youtube Views](https://img.shields.io/youtube/channel/views/UCNhi5NBlMT7V09MzuwD85Aw?style=for-the-badge&logo=youtube&labelColor=C79600&color=E1AD0E)](https://www.youtube.com/@phamquockhanh7352) 
-    [![Total Stars on GitHub](https://custom-icon-badges.demolab.com/github/stars/khanhrukachi?color=55960c&style=for-the-badge&labelColor=488207&logo=star)](https://github.com/khanhrukachi?tab=repositories&sort=stargazers) 
-    [![Followers on GitHub](https://custom-icon-badges.demolab.com/github/followers/khanhrukachi?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white)](https://github.com/khanhrukachi?tab=followers) 
-    ![GitHub profile views](https://komarev.com/ghpvc/?username=khanhrukachi&color=7C007C&labelColor=640464&style=for-the-badge&label=Visitors&&base=1000) 
-</div>
-
-
-<p align="center">
-  <a href="https://www.facebook.com/phamquockhanh7352/">
-    <img alt="Follow me on Facebook" src="https://img.shields.io/badge/Follow%20me%20on-Facebook-blue?style=for-the-badge&logo=facebook">
-  </a>
-  <a href="https://www.instagram.com/pqk_7352/">
-    <img alt="Follow me on Instagram" src="https://img.shields.io/badge/Follow%20me%20on-Instagram-pink?style=for-the-badge&logo=instagram">
-  </a>
-</p>
-
-
-
 <p align="center">
   <a href="https://www.youtube.com/@phamquockhanh7352">
   <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UCNhi5NBlMT7V09MzuwD85Aw?style=for-the-badge&logo=youtube&labelColor=CE4630&color=E05D44"/>
@@ -197,6 +177,14 @@ class MainActivity : AppCompatActivity() {
 
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> Connect with me
+
+[![Email](https://github.com/khanhrukachi/khanhrukachi/blob/main/Image/email.png)](mailto:phamquockhanh.dev@gmail.com)
+[![Facebook](https://github.com/khanhrukachi/khanhrukachi/blob/main/Image/facebook_.png)](https://fb.com/phamquockhanh7352)
+[![Instagram](https://github.com/khanhrukachi/khanhrukachi/blob/main/Image/instagram.png)](https://instagram.com/pqk_7352)
+[![GitHub](https://github.com/khanhrukachi/khanhrukachi/blob/main/Image/github.png)](https://github.com/khanhrukachi)
+[![YouTube](https://github.com/khanhrukachi/khanhrukachi/blob/main/Image/youtobe.png)](https://www.youtube.com/@phamquockhanh7352)
+[![TikTok](https://github.com/khanhrukachi/khanhrukachi/blob/main/Image/tiktok.png)](https://www.tiktok.com/@phamquockhanh7352)
+
 <!-- gmail -->
 <a  href="mailto:phamquockhanh.dev@gmail.com">
  <img align="center" src="https://github.com/khanhrukachi/khanhrukachi/blob/main/Image/email.png" alt="Khanhrukachi's gmail" height="50" width="50"/>
