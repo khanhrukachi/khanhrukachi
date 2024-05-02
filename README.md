@@ -7,9 +7,8 @@
 </br>
 
 <p align="center">
-  <a style="text-decoration: none;" href="https://www.youtube.com/@phamquockhanh7352">
+	[Link text](https://www.youtube.com/@phamquockhanh7352)
   <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UCNhi5NBlMT7V09MzuwD85Aw?style=for-the-badge&logo=youtube&labelColor=CE4630&color=E05D44"/>
-  </a>
   <a href="https://www.youtube.com/@phamquockhanh7352">
   <img alt="youtube views" title="YouTube views" src="https://img.shields.io/youtube/channel/views/UCNhi5NBlMT7V09MzuwD85Aw?style=for-the-badge&logo=youtube&labelColor=C79600&color=E1AD0E"/>
   </a>
